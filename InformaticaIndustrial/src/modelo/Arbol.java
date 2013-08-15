@@ -18,9 +18,6 @@ public class Arbol {
 	int i,j=0;
 	ArrayList<Nodo> padresPrincipales = new ArrayList<>();
 
-	String a=null;
-//	Agregue lo que me falta
-	////////
 	public Arbol(){
 	
 //		try
