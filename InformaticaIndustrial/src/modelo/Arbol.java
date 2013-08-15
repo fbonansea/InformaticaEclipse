@@ -19,6 +19,7 @@ public class Arbol {
 	
 	ArrayList<Nodo> padresPrincipales = new ArrayList<>();
 	int m=0;
+	int n=1;
 	public Arbol(){
 	
 //		try
