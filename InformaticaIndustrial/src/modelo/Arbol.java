@@ -16,6 +16,8 @@ public class Arbol {
 	//Connection cn;
 	Integer[][] bom = new Integer[10][10];
 	int i,j=0;
+	
+	
 	ArrayList<Nodo> padresPrincipales = new ArrayList<>();
 	
 	public Arbol(){
